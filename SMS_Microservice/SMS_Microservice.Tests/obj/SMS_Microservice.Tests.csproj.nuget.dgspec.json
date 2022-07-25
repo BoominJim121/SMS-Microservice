@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice.Tests\\SMS_Microservice.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JamesRogers\\Jims Projects\\Platform\\Platform.Messaging\\Platform.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JamesRogers\\Jims Projects\\Platform\\Platform.Messaging\\Platform.Messaging.csproj",
+        "projectName": "Platform.Messaging",
+        "projectPath": "C:\\Users\\JamesRogers\\Jims Projects\\Platform\\Platform.Messaging\\Platform.Messaging.csproj",
+        "packagesPath": "C:\\Users\\JamesRogers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JamesRogers\\Jims Projects\\Platform\\Platform.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JamesRogers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "MassTransit.Azure.ServiceBus.Core": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "MassTransit.Newtonsoft": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SendSMS.Client\\SendSMS.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SendSMS.Client\\SendSMS.Client.csproj",
+        "projectName": "SendSMS.Client",
+        "projectPath": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SendSMS.Client\\SendSMS.Client.csproj",
+        "packagesPath": "C:\\Users\\JamesRogers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SendSMS.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JamesRogers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice.Tests\\SMS_Microservice.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice.Tests\\SMS_Microservice.Tests.csproj",
+        "projectName": "SMS_Microservice.Tests",
+        "projectPath": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice.Tests\\SMS_Microservice.Tests.csproj",
+        "packagesPath": "C:\\Users\\JamesRogers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JamesRogers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice\\SMS_Microservice.csproj": {
+                "projectPath": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice\\SMS_Microservice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "TestStack.BDDfy.Xunit": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice\\SMS_Microservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice\\SMS_Microservice.csproj",
+        "projectName": "SMS_Microservice",
+        "projectPath": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice\\SMS_Microservice.csproj",
+        "packagesPath": "C:\\Users\\JamesRogers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SMS_Microservice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JamesRogers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\JamesRogers\\Jims Projects\\Platform\\Platform.Messaging\\Platform.Messaging.csproj": {
+                "projectPath": "C:\\Users\\JamesRogers\\Jims Projects\\Platform\\Platform.Messaging\\Platform.Messaging.csproj"
+              },
+              "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SendSMS.Client\\SendSMS.Client.csproj": {
+                "projectPath": "C:\\Users\\JamesRogers\\Jims Projects\\SMS_Microservice\\SendSMS.Client\\SendSMS.Client.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

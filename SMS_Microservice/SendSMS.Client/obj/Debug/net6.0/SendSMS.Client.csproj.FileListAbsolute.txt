@@ -1,0 +1,12 @@
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\bin\Debug\net6.0\SendSMS.Client.deps.json
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\bin\Debug\net6.0\SendSMS.Client.dll
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\bin\Debug\net6.0\SendSMS.Client.pdb
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\SendSMS.Client.csproj.AssemblyReference.cache
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\SendSMS.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\SendSMS.Client.AssemblyInfoInputs.cache
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\SendSMS.Client.AssemblyInfo.cs
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\SendSMS.Client.csproj.CoreCompileInputs.cache
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\SendSMS.Client.dll
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\refint\SendSMS.Client.dll
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\SendSMS.Client.pdb
+C:\Users\JamesRogers\Jims Projects\SMS_Microservice\SendSMS.Client\obj\Debug\net6.0\ref\SendSMS.Client.dll

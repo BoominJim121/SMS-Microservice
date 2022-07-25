@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H6r3z86Y+mKPLPBS3kMrGgCJNdKT5TbOTP63v7mW+lY=",
+  "Source": "SMS_Microservice",
+  "BasePath": "_content/SMS_Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SMS_Microservice": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61806;http://localhost:61807"
+    }
+  }
+}
